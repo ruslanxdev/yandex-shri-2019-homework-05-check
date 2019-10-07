@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.5.1"
+    "eslint": "^6.5.1",
+    "eslint-plugin-lodash-to-native": "git+https://github.com/fosemberg/eslint-plugin-lodash-to-native.git"
   },
   "dependencies": {
     "lodash": "^4.17.15"
